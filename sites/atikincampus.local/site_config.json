@@ -1,0 +1,11 @@
+{
+ "db_name": "_5323a88d0d78bc62",
+ "db_password": "FPoLZot5TCDJtaeP",
+ "db_type": "mariadb",
+ "db_user": "_5323a88d0d78bc62",
+ "installed_apps": [
+  "frappe",
+  "erpnext",
+  "education"
+ ]
+}
